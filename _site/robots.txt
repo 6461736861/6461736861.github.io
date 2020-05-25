@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/agency-jekyll-theme/sitemap.xml
+Sitemap: http://localhost:4000/ukraine/sitemap.xml
