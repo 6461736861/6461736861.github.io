@@ -2,14 +2,11 @@
 title: Beauty Salons
 subtitle: Hair, Nails, and Injections
 layout: default
-modal-id: 3
+modal-id: 4
 date: 2014-07-16
 img: beauty.png
 thumbnail: beauty-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Beauty procedures in Ukraine is a separate type of pleasure!<br>Beautiful salons that work on weekends and until late at night, sterility of instruments, the professionalism of masters, for whom each client is a VIP client at great prices!<h3>Here are some popular beauty procedures and prices</h3><h4><a href="https://www.instagram.com/g.bar.kiev/?hl=en">GBar, Kyiv</a></h4>1. Male/Female Manicure, 10,08 USD <br>2. Acid Pedicure, 17 USD <br>3. Gel polish, 11,95 USD <br>4. Evening Make Up, 24,27 USD <h4><a href="https://www.instagram.com/idnbeautysalon/">IDN beauty, Kyiv</a></h4>1. DMK Face cleaning (micro peel + acu masque), 90 mins, 24,65 USD <br>2. Contour plastic(lip augmentation/correction, nasolabial wrinkle correction, cheekbone enlargement) Juvederm Smile 0.55 ml, 90 mins, 186,72 USD<br><h4><a href="https://lumenis.com.ua/priselist.html">Lumenis, Laser hair removal, Kyiv</a></h4>1. Bikini completely, 20 mins, from 27,63 USD<br>2. Legs completely, 60 mins, from 57,51 USD<h5> and much more... </h5>
 
 ---

@@ -2,14 +2,11 @@
 title: Bachelorette Party
 subtitle: Fabulous Time
 layout: default
-modal-id: 6
+modal-id: 7
 date: 2014-07-15
 img: bachelorette.png
 thumbnail: bachelorette-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A photo session with friends, a cozy evening in a chic restaurant, dancing until the morning, luxurious limousine, or maybe a quiet, cozy evening on the roof or in the cinema? We will organize an exceptional evening for you!
 
 ---

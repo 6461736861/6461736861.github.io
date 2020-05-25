@@ -2,14 +2,11 @@
 title: Medical
 subtitle: Checkups and Procedures
 layout: default
-modal-id: 4
+modal-id: 5
 date: 2014-07-15
 img: medical.png
 thumbnail: medical-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: For your comfort and confidence, we will schedule your appointments to the best, highly qualified doctors in well-equipped clinics. You can take blood tests, 3D ultrasound, do teeth whitening or ceramic fillings, improve your health in mud resorts, and much more at excellent prices!<h3>Here are some popular medical procedures and prices</h3><h4><a href="https://www.parodent.com.ua/en/">Parodent, Lviv</a></h4>1. Teeth whitening using a lamp and the Beyond system (one jaw) (smile area), 78,42 USD<br>2. Art restoration of 1 tooth, 36 USD<br>3. Professional oral hygiene removal of dental deposits - the Air-floor and Air-floow Perio techniques from 18 USD<h4><a href="https://www.synevo.ua/en">The European laboratory chain Synevo, everywhere</a></h4>1. Full health examination + report describing laboratory indicators, 82,16 USD<br>2. Hepatitis B virus (HBV), 8 USD<br>3. Package No. 318 (Vegetarian Health), 97 USD<br>4. Ultrasound of the thyroid gland and regional lymph nodes, 17,25 USD<h4>Mineral Water Treatment in the Carpathians</a></h4>There are many hotels with Mineral Water Treatment.<br>Typically, Package of procedures "All-inclusive" will cost from 14 USD / day <br>It will include such procedures only after consultation with a hotel doctor:<br>mineral water treatment in the resort of Morshyn, diet therapy, hardware physiotherapy (high- and low-frequency electrotherapy, electro-mud therapy, ultrasound, microstimulation), therapeutic baths (bischofite, with concentrates of medicinal herbs, with soybean lipids, hydromassage, underwater shower-massage), ozokerite and paraffin therapy, therapeutic inhalations, tubage, therapeutic microclusters, massage.<h5> and much more... </h5>
 
 ---
