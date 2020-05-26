@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/2014/07/14/bachelor/</loc>
+<loc>http://localhost:4000/ukraine/2014/07/14/bachelor/</loc>
 <lastmod>2014-07-14T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2014/07/15/bachelorette/</loc>
+<loc>http://localhost:4000/ukraine/2014/07/15/bachelorette/</loc>
 <lastmod>2014-07-15T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2014/07/15/medical/</loc>
+<loc>http://localhost:4000/ukraine/2014/07/15/medical/</loc>
 <lastmod>2014-07-15T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2014/07/16/beauty/</loc>
+<loc>http://localhost:4000/ukraine/2014/07/16/beauty/</loc>
 <lastmod>2014-07-16T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2014/07/17/guided-tours/</loc>
+<loc>http://localhost:4000/ukraine/2014/07/17/guided-tours/</loc>
 <lastmod>2014-07-17T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/2014/07/17/restaurants/</loc>
+<loc>http://localhost:4000/ukraine/2014/07/17/restaurants/</loc>
 <lastmod>2014-07-17T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://localhost:4000/ukraine/</loc>
 </url>
 </urlset>
